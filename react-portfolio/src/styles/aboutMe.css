@@ -1,0 +1,60 @@
+body {
+    height: 100vh;
+    min-height: 100%;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.mainNav {
+    justify-content: flex-end;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.mainPic {
+    max-width: 300px;
+    max-width: 300px;
+    border-radius: 300px;
+    margin: 15px;
+}
+
+.mainCol {
+    display: flex;
+    justify-content: center;
+}
+
+.mainRow {
+    margin-top: 50px;
+}
+
+.secondCol {
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: rgb(31, 29, 29);
+    color: white;
+    padding: 30px;
+    font-size: larger;
+   
+}
+
+.mainHeader3 {
+    text-align: center;
+    font-size: 100px;
+    margin: 30px;
+}
+
+@media screen and (max-width: 600px) {
+
+    .secondCol {
+        min-width: 75%;
+    }
+
+    .mainHeader3 {
+        font-size: 3rem;
+    }
+
+    
+
+}

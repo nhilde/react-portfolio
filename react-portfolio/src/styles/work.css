@@ -1,0 +1,66 @@
+.appCol {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.appName {
+    text-decoration: none;
+    font-size: 3rem;
+    color: black;
+}
+
+.projectLinks {
+    color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.projectScreenshot {
+    max-height: 600px;
+    max-width: 500px;
+    border: 1.5px solid black;
+}
+
+.appRow {
+    margin: 50px;
+}
+
+.workHeader {
+    text-align: center;
+    font-size: 100px;
+    margin: 30px;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.mainNav {
+    justify-content: flex-end;
+    padding: 5px;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 600px) {
+
+
+    .workHeader {
+        font-size: 3rem;
+    }
+
+    .appName {
+        font-size: 2rem;
+    }
+
+    .projectLinks {
+        font-size: 1.5rem;
+    }
+
+    .projectScreenshot {
+        max-width: 300px;
+        max-height: 200px;
+    }
+}

@@ -1,0 +1,14 @@
+.mobileNav {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+
+.mobileNav {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+
+
+}

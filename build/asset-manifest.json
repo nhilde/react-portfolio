@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.76061474.css",
+    "main.js": "/react-portfolio/static/js/main.eee3359f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/nbawizpic.png": "/react-portfolio/static/media/nbawizpic.606a84c67fbf81a687e3.png",
+    "static/media/selfie.jpg": "/react-portfolio/static/media/selfie.72cc8c9ffd242735b16b.jpg",
+    "static/media/readMeGen.png": "/react-portfolio/static/media/readMeGen.5c536b5b7292fe1076da.png",
+    "static/media/employeeTracker.png": "/react-portfolio/static/media/employeeTracker.bac3f7a2cb136d165dfe.png",
+    "static/media/ecomBackend.png": "/react-portfolio/static/media/ecomBackend.bae455dbcda126b60bbd.png",
+    "static/media/weatherdash.png": "/react-portfolio/static/media/weatherdash.947efe414a00271d9dc2.png",
+    "static/media/teamGen.png": "/react-portfolio/static/media/teamGen.7038c416d1344ecb7980.png",
+    "static/media/notetaker.png": "/react-portfolio/static/media/notetaker.959c68aea3176f61190e.png",
+    "static/media/emaildark.png": "/react-portfolio/static/media/emaildark.b50976c1729c028403c5.png",
+    "static/media/linkedindark.png": "/react-portfolio/static/media/linkedindark.ba884e1f9ad4362348c1.png",
+    "static/media/passwordGen.png": "/react-portfolio/static/media/passwordGen.aa25cbf89939def02f6b.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.76061474.css.map": "/react-portfolio/static/css/main.76061474.css.map",
+    "main.eee3359f.js.map": "/react-portfolio/static/js/main.eee3359f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76061474.css",
+    "static/js/main.eee3359f.js"
+  ]
+}
